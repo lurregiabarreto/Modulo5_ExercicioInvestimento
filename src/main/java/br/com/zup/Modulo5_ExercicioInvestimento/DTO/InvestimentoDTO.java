@@ -8,7 +8,7 @@ public class InvestimentoDTO {
     private String cpf;
     private double valorInvestido;
     private int periodoDeAplicacaoMeses;
-    private Risco risco;
+    private Risco  risco;
 
     public InvestimentoDTO() {
     }
