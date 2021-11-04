@@ -1,2 +1,4 @@
-package br.com.zup.Modulo5_ExercicioInvestimento.config;public class ControladorAdvisor {
+package br.com.zup.Modulo5_ExercicioInvestimento.config;
+
+public class ControladorAdvisor {
 }
